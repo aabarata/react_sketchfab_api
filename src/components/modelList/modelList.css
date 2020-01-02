@@ -1,0 +1,21 @@
+.placeholder {
+    position: absolute;
+    width: 455px;
+    top: 50%;
+    left: 50%;
+    margin-left: -225px;
+    margin-top: -25px;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.loading {
+    position: absolute;
+    width: 100px;
+    top: 50%;
+    left: 50%;
+    margin-left: -50px;
+    margin-top: -25px;
+    font-size: 24px;
+    font-weight: 900;
+}

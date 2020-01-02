@@ -1,0 +1,23 @@
+.navigation {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    justify-content: flex-end;
+}
+
+.navigation button.active {
+    border: 1px solid #1f5cbc;
+    background-color: #fff;
+    color: #1f5cbc;
+    font-weight: 600;
+}
+
+.auth {
+    display: inline-flex;
+    align-items: center;
+    margin-right: auto;
+}
+
+.auth i {
+    margin-right: 5px;
+}
